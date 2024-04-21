@@ -1,3 +1,11 @@
-# CAMP - Curso Android Moderno e Profissional
+This repository is from CAMP - Curso sobre Desenvolvimento Android Moderno e Profissional.
 
-Este repositório é referente ao CAMP - Curso sobre Desenvolvimento Android Moderno e Profissional que visa capacitar os devs Android que querem dar o próximo passo na carreira profissional.
+Skills:
+
+. Clean Architecture;
+. CI/CD (BitRise);
+. Kotlin;
+. Coroutines;
+. Room;
+. Unit testing;
+. Interface testing.
